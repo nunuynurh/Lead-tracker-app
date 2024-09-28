@@ -6,7 +6,7 @@ import { getDatabase,
          remove } from import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-database.js"
 
 const firebaseConfig = {
-    databaseURL: "https://chitchat-1dd0d.firebaseio.com/""
+    databaseURL: "https://chitchat-1dd0d.firebaseio.com/"
 }
 
 const app = initializeApp(firebaseConfig)
