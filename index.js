@@ -1,9 +1,9 @@
-import { initializeApp } from import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-app.js"
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-app.js"
 import { getDatabase,
          ref,
          push,
          onValue,
-         remove } from import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-database.js"
+         remove } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-database.js"
 
 const firebaseConfig = {
     databaseURL: "https://chitchat-1dd0d.firebaseio.com/"
